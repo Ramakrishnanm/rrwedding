@@ -783,6 +783,8 @@ section.lazy-placeholder:after {
   color: #e4121b;
 }
 .cid-sraaXQAzr1 {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/istockphoto-530366713-612x548.jpg");
 }
 .cid-sraaXQAzr1 .mbr-section-title,
@@ -850,7 +852,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sphTDXrujz .countdown-cont {
-  background: linear-gradient(45deg, #cd171f, #ff0a00);
+  background: linear-gradient(45deg, #cd171f, #e4121b);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
